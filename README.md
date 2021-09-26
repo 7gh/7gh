@@ -6,6 +6,9 @@ Hey there, i'm luke!
 - 💬 Ask me about anything!
 - 📫 If you want to reach me you can add me on discord... my username is fvz#0002
 - 😄 Pronouns: He/Him
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:79ksupreme@gmail.com)](mailto:79ksupreme@gmail.com)
+- 
+### My Discord 
+
+<img src="https://discord.c99.nl/widget/theme-3/805629759219695616.png"/>
 
 ![7gh's GitHub stats](https://github-readme-stats.vercel.app/api?username=7gh&count_private=true)
