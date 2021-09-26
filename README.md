@@ -8,4 +8,4 @@ Hey there, i'm luke!
 - 😄 Pronouns: He/Him
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:79ksupreme@gmail.com)](mailto:79ksupreme@gmail.com)
 
-![7gh's github stats](https://github-readme-stats.vercel.app/api?username=7gh&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![7gh's GitHub stats](https://github-readme-stats.vercel.app/api?username=7gh&count_private=true)
