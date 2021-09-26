@@ -1,14 +1,16 @@
-Hey there, i'm luke!
+## Hello there, I'm Luke!
 
-- 🔭 I’m currently working on Azure
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Azure
-- 💬 Ask me about anything!
-- 📫 If you want to reach me you can add me on discord... my username is fvz#0002
-- 😄 Pronouns: He/Him
-- 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=7gh&count_private=true">
+-   :man_technologist: Hey! I'm Luke a python dev. 
+
+-   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit.
+
+-   :package: I usually create stuff related to ROBLOX
+
+
+-   :man: Pronouns: he/him.
+
+-   :pencil: Windows 10 / VS Code / Brave /Python
 ### My Discord 
 
 <img src="https://discord.c99.nl/widget/theme-3/805629759219695616.png"/>
-
-![7gh's GitHub stats](https://github-readme-stats.vercel.app/api?username=7gh&count_private=true)
