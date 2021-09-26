@@ -7,10 +7,9 @@
 
 -   :package: I usually create stuff related to ROBLOX
 
-
 -   :man: Pronouns: he/him.
 
 -   :pencil: Windows 10 / VS Code / Brave /Python
-### My Discord 
+My Discord 
 
-<img src="https://discord.c99.nl/widget/theme-3/805629759219695616.png"/>
+<img src="https://discord.c99.nl/widget/theme-3/805629759219695616.png">
