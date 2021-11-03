@@ -1,11 +1,11 @@
 ## Hello there, I'm Luke!
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=7gh&count_private=true">
--   :man_technologist: Hey! I'm Luke a python dev. 
+-   :man_technologist: Hey! I'm luke, a python dev. 
 
--   :hammer_and_pick: I mostly know python although I know a tiny bit of JavaScript too!
+-   :hammer_and_pick: I mostly know python although I know a tiny bit of JavaScript aswell
 
--   :package: I usually create stuff related to ROBLOX
+-   :package: im cool i know
 
 -   :man: Pronouns: he/him.
 
