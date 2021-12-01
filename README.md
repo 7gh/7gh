@@ -1,15 +1,22 @@
-## Hello there, I'm Luke!
+![Header](./header.png)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=7gh&count_private=true">
--   :man_technologist: Hey! I'm luke, a python dev. 
+<h1 align="center">lukeii#0002</h1>
+<p align="center">I code in Python, and a bit of Javascript, DM me for commisions.</p>
+<a href="https://github.com/7gh">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=7gh" alt="Profile Views">
+  </p>
+</a>
 
--   :hammer_and_pick: I mostly know python although I know a tiny bit of JavaScript aswell
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=7gh&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
--   :package: im cool i know
+<p align="center">
+  <img src="GET FROM https://discord.c99.nl" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=7gh&theme=nord&margin-w=15&margin-h=1&column=6" />
+</p>
 
--   :man: Pronouns: he/him.
-
--   :pencil: Windows 10 / VS Code / Brave / Python
-## My Discord 
-
-<img src="https://discord.c99.nl/widget/theme-3/805629759219695616.png">
+![Footer](./footer.png)
