@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">lukeii#0002</h1>
+<h1 align="center">luhn#0001</h1>
 <p align="center">I code in Python, and a bit of Javascript, DM me for commisions.</p>
 <a href="https://github.com/7gh">
   <p align="center">
